@@ -23,7 +23,7 @@ repositories:
 
 website: "https://fluid-cloudnative.github.io/"
 
-artwork: "https://landscape.cncf.io/logos/fluid.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/fluid"
 
 adopters:
   path: "https://github.com/fluid-cloudnative/fluid/blob/master/ADOPTERS.md"
